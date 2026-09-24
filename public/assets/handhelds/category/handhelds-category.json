@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Osmo Pocket 3",
+    "slug": "osmo-pocket-3",
+    "image": "/assets/handhelds/category/images/osmo-pocket-3.png"
+  },
+  {
+    "id": 2,
+    "name": "Osmo Pocket 4",
+    "slug": "osmo-pocket-4",
+    "image": "/assets/handhelds/category/images/osmo-pocket-4.png"
+  },
+  {
+    "id": 3,
+    "name": "Osmo Action 4",
+    "slug": "osmo-action-4",
+    "image": "/assets/handhelds/category/images/osmo-action-4.png"
+  },
+  {
+    "id": 4,
+    "name": "Osmo Action 5 Pro",
+    "slug": "osmo-action-5-pro",
+    "image": "/assets/handhelds/category/images/osmo-action-5-pro.png"
+  },
+  {
+    "id": 5,
+    "name": "Osmo 360",
+    "slug": "osmo-360",
+    "image": "/assets/handhelds/category/images/osmo-360.png"
+  },
+  {
+    "id": 6,
+    "name": "Osmo Mobile",
+    "slug": "osmo-mobile",
+    "image": "/assets/handhelds/category/images/osmo-mobile.png"
+  },
+  {
+    "id": 7,
+    "name": "Osmo Mobile 8P",
+    "slug": "osmo-mobile-8p",
+    "image": "/assets/handhelds/category/images/osmo-mobile-8p.png"
+  },
+  {
+    "id": 8,
+    "name": "DJI Mic 2",
+    "slug": "dji-mic-2",
+    "image": "/assets/handhelds/category/images/dji-mic-2.png"
+  },
+  {
+    "id": 9,
+    "name": "DJI Mic Mini",
+    "slug": "dji-mic-mini",
+    "image": "/assets/handhelds/category/images/dji-mic-mini.png"
+  },
+  {
+    "id": 10,
+    "name": "Osmo Nano",
+    "slug": "osmo-nano",
+    "image": "/assets/handhelds/category/images/osmo-nano.png"
+  },
+  {
+    "id": 11,
+    "name": "Pocket Creator Combo",
+    "slug": "pocket-creator-combo",
+    "image": "/assets/handhelds/category/images/pocket-creator-combo.png"
+  },
+  {
+    "id": 12,
+    "name": "Action Creator Combo",
+    "slug": "action-creator-combo",
+    "image": "/assets/handhelds/category/images/action-creator-combo.png"
+  },
+  {
+    "id": 13,
+    "name": "Handheld Accessories",
+    "slug": "handheld-accessories",
+    "image": "/assets/handhelds/category/images/handheld-accessories.png"
+  },
+  {
+    "id": 14,
+    "name": "Wireless Audio Kits",
+    "slug": "wireless-audio-kits",
+    "image": "/assets/handhelds/category/images/wireless-audio-kits.png"
+  }
+]
